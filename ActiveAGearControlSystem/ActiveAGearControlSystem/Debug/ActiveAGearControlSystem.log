@@ -1,0 +1,21 @@
+﻿  ActuationController.cpp
+d:\dropbox\pda\source code\wearmecs open source project\activeagearcontrolsystem\activeagearcontrolsystem\actuationcontroller.cpp(74): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+d:\dropbox\pda\source code\wearmecs open source project\activeagearcontrolsystem\activeagearcontrolsystem\actuationcontroller.cpp(76): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+d:\dropbox\pda\source code\wearmecs open source project\activeagearcontrolsystem\activeagearcontrolsystem\actuationcontroller.cpp(86): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+  EstimationController.cpp
+d:\dropbox\pda\source code\wearmecs open source project\activeagearcontrolsystem\activeagearcontrolsystem\estimationcontroller.cpp(71): warning C4101: 'realcommandvelocity': unreferenced local variable
+d:\dropbox\pda\source code\wearmecs open source project\activeagearcontrolsystem\activeagearcontrolsystem\estimationcontroller.cpp(72): warning C4101: 'commandvelocity': unreferenced local variable
+d:\dropbox\pda\source code\wearmecs open source project\activeagearcontrolsystem\activeagearcontrolsystem\estimationcontroller.cpp(67): warning C4101: 'realvelocity': unreferenced local variable
+d:\dropbox\pda\source code\wearmecs open source project\activeagearcontrolsystem\activeagearcontrolsystem\estimationcontroller.cpp(68): warning C4101: 'estimatedvelocity': unreferenced local variable
+d:\dropbox\pda\source code\wearmecs open source project\activeagearcontrolsystem\activeagearcontrolsystem\estimationcontroller.cpp(60): warning C4101: 'filteredvelocity': unreferenced local variable
+d:\dropbox\pda\source code\wearmecs open source project\activeagearcontrolsystem\activeagearcontrolsystem\estimationcontroller.cpp(57): warning C4101: 'filteredangleradians': unreferenced local variable
+d:\dropbox\pda\source code\wearmecs open source project\activeagearcontrolsystem\activeagearcontrolsystem\estimationcontroller.cpp(61): warning C4101: 'normalizedangle': unreferenced local variable
+d:\dropbox\pda\source code\wearmecs open source project\activeagearcontrolsystem\activeagearcontrolsystem\estimationcontroller.cpp(190): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\pda\source code\wearmecs open source project\activeagearcontrolsystem\activeagearcontrolsystem\estimationcontroller.cpp(195): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  TaskController.cpp
+d:\dropbox\pda\source code\wearmecs open source project\activeagearcontrolsystem\activeagearcontrolsystem\taskcontroller.cpp(243): warning C4018: '<': signed/unsigned mismatch
+d:\dropbox\pda\source code\wearmecs open source project\activeagearcontrolsystem\activeagearcontrolsystem\taskcontroller.cpp(270): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+d:\dropbox\pda\source code\wearmecs open source project\activeagearcontrolsystem\activeagearcontrolsystem\taskcontroller.cpp(306): warning C4101: 'start': unreferenced local variable
+  Generating Code...
+  ActiveAGearControlSystem.vcxproj -> D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\ActiveAGearControlSystem\Debug\ActiveAGearControlSystem.exe
+  ActiveAGearControlSystem.vcxproj -> D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\ActiveAGearControlSystem\Debug\ActiveAGearControlSystem.pdb (Full PDB)

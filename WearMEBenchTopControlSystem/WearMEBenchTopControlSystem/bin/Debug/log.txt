@@ -1,0 +1,3 @@
+Initial Server Reponse: Delsys Trigno System Digital Protocol Version 2.5 
+Command: START
+Reponse:OK

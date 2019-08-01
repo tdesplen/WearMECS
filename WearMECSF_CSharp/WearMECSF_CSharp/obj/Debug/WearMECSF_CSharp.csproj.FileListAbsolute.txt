@@ -1,0 +1,5 @@
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMECSF_CSharp\WearMECSF_CSharp\bin\Debug\WearMECSF_CSharp.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMECSF_CSharp\WearMECSF_CSharp\bin\Debug\WearMECSF_CSharp.pdb
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMECSF_CSharp\WearMECSF_CSharp\obj\Debug\WearMECSF_CSharp.csprojResolveAssemblyReference.cache
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMECSF_CSharp\WearMECSF_CSharp\obj\Debug\WearMECSF_CSharp.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMECSF_CSharp\WearMECSF_CSharp\obj\Debug\WearMECSF_CSharp.pdb

@@ -1,0 +1,11 @@
+﻿  EposController.cpp
+EposController.cpp(122): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+EposController.cpp(143): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+EposController.cpp(161): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+  Generating code
+  0 of 322 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    40 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  WearMEBraceControlSystem.vcxproj -> D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMEBraceControlSystem\Release\WearMEBraceControlSystem.exe
+  WearMEBraceControlSystem.vcxproj -> D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMEBraceControlSystem\Release\WearMEBraceControlSystem.pdb (Full PDB)

@@ -1,0 +1,68 @@
+D:\Dropbox\PhD\Source Code\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\WearMEBenchTopControlSystem.exe.config
+D:\Dropbox\PhD\Source Code\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.Properties.Resources.resources
+D:\Dropbox\PhD\Source Code\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.csproj.GenerateResource.Cache
+D:\Dropbox\PhD\Source Code\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\WearMEBenchTopControlSystem.exe
+D:\Dropbox\PhD\Source Code\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\WearMEBenchTopControlSystem.pdb
+D:\Dropbox\PhD\Source Code\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\CollectionArmLibrary.dll
+D:\Dropbox\PhD\Source Code\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\DelsysTrignoCSharpLIbrary.dll
+D:\Dropbox\PhD\Source Code\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\EposCmd.Net.dll
+D:\Dropbox\PhD\Source Code\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\MathNet.Numerics.dll
+D:\Dropbox\PhD\Source Code\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\WearMECSF.dll
+D:\Dropbox\PhD\Source Code\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\MathNet.Numerics.xml
+D:\Dropbox\PhD\Source Code\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.exe
+D:\Dropbox\PhD\Source Code\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.pdb
+D:\Dropbox\PhD\Source Code\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\alglibnet2.dll
+D:\Dropbox\PhD\Source Code\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.ExperimentInterface.resources
+D:\Dropbox\PhD\Source Code\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.TrajectoryView.resources
+D:\Dropbox\PhD\Source Code\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.csprojResolveAssemblyReference.cache
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\WearMEBenchTopControlSystem.exe.config
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.exe
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.pdb
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\WearMEBenchTopControlSystem.exe
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\WearMEBenchTopControlSystem.pdb
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\alglibnet2.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\CollectionArmLibrary.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\DelsysTrignoCSharpLIbrary.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\EposCmd.Net.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\MathNet.Numerics.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\WearMECSF.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\MathNet.Numerics.xml
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.csprojResolveAssemblyReference.cache
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.ExperimentInterface.resources
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.Properties.Resources.resources
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.TrajectoryView.resources
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Final Experiment\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.csproj.GenerateResource.Cache
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\WearMEBenchTopControlSystem.exe.config
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.exe
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.pdb
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\WearMEBenchTopControlSystem.exe
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\WearMEBenchTopControlSystem.pdb
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\alglibnet2.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\CollectionArmLibrary.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\DelsysTrignoCSharpLIbrary.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\EposCmd.Net.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\MathNet.Numerics.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\WearMECSF.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\MathNet.Numerics.xml
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.csprojResolveAssemblyReference.cache
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.ExperimentInterface.resources
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.Properties.Resources.resources
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.TrajectoryView.resources
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.csproj.GenerateResource.Cache
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\WearMEBenchTopControlSystem.exe.config
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.exe
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.pdb
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\WearMEBenchTopControlSystem.exe
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\WearMEBenchTopControlSystem.pdb
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\alglibnet2.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\CollectionArmLibrary.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\DelsysTrignoCSharpLIbrary.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\EposCmd.Net.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\MathNet.Numerics.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\WearMECSF.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\bin\Debug\MathNet.Numerics.xml
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.csprojResolveAssemblyReference.cache
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.ExperimentInterface.resources
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.Properties.Resources.resources
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.TrajectoryView.resources
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMEBenchTopControlSystem\WearMEBenchTopControlSystem\obj\Debug\WearMEBenchTopControlSystem.csproj.GenerateResource.Cache

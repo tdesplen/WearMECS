@@ -1,0 +1,33 @@
+﻿  TaskController.cpp
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\taskcontroller.cpp(112): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\taskcontroller.cpp(130): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\taskcontroller.cpp(187): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\taskcontroller.cpp(188): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\taskcontroller.cpp(189): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\taskcontroller.cpp(194): warning C4244: 'initializing': conversion from 'double' to 'DWORD', possible loss of data
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\taskcontroller.cpp(195): warning C4018: '<': signed/unsigned mismatch
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\taskcontroller.cpp(221): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\taskcontroller.cpp(231): warning C4101: 'start': unreferenced local variable
+  FileParser.cpp
+  EstimationController.cpp
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\estimationcontroller.cpp(73): warning C4101: 'realcommandvelocity': unreferenced local variable
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\estimationcontroller.cpp(74): warning C4101: 'commandvelocity': unreferenced local variable
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\estimationcontroller.cpp(69): warning C4101: 'realvelocity': unreferenced local variable
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\estimationcontroller.cpp(70): warning C4101: 'estimatedvelocity': unreferenced local variable
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\estimationcontroller.cpp(62): warning C4101: 'filteredvelocity': unreferenced local variable
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\estimationcontroller.cpp(59): warning C4101: 'filteredangleradians': unreferenced local variable
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\estimationcontroller.cpp(63): warning C4101: 'normalizedangle': unreferenced local variable
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\estimationcontroller.cpp(191): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\estimationcontroller.cpp(196): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  EposController.cpp
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\eposcontroller.cpp(122): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\eposcontroller.cpp(143): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\eposcontroller.cpp(161): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+  Butterworth.cpp
+  ActuationController.cpp
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\actuationcontroller.cpp(76): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\actuationcontroller.cpp(78): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+  Generating Code...
+d:\dropbox\pda\source code\wearmecs open source project\wearmebracecontrolsystem\wearmebracecontrolsystem\eposcontroller.cpp(111): warning C4715: 'WearMEBraceControlSystem::EposController::GetPosition': not all control paths return a value
+  WearMEBraceControlSystem.vcxproj -> D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMEBraceControlSystem\Debug\WearMEBraceControlSystem.exe
+  WearMEBraceControlSystem.vcxproj -> D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMEBraceControlSystem\Debug\WearMEBraceControlSystem.pdb (Full PDB)

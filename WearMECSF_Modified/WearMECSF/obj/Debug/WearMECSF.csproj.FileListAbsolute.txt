@@ -1,0 +1,15 @@
+D:\Dropbox\PhD\Source Code\Muscle Activation Comparison\WearMECSF\WearMECSF\bin\Debug\WearMECSF.dll
+D:\Dropbox\PhD\Source Code\Muscle Activation Comparison\WearMECSF\WearMECSF\bin\Debug\WearMECSF.pdb
+D:\Dropbox\PhD\Source Code\Muscle Activation Comparison\WearMECSF\WearMECSF\obj\Debug\WearMECSF.csprojResolveAssemblyReference.cache
+D:\Dropbox\PhD\Source Code\Muscle Activation Comparison\WearMECSF\WearMECSF\obj\Debug\WearMECSF.dll
+D:\Dropbox\PhD\Source Code\Muscle Activation Comparison\WearMECSF\WearMECSF\obj\Debug\WearMECSF.pdb
+D:\Dropbox\PhD\Source Code\WearMECSF\WearMECSF\bin\Debug\WearMECSF.dll
+D:\Dropbox\PhD\Source Code\WearMECSF\WearMECSF\bin\Debug\WearMECSF.pdb
+D:\Dropbox\PhD\Source Code\WearMECSF\WearMECSF\obj\Debug\WearMECSF.csprojResolveAssemblyReference.cache
+D:\Dropbox\PhD\Source Code\WearMECSF\WearMECSF\obj\Debug\WearMECSF.dll
+D:\Dropbox\PhD\Source Code\WearMECSF\WearMECSF\obj\Debug\WearMECSF.pdb
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMECSF\WearMECSF\bin\Debug\WearMECSF.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMECSF\WearMECSF\bin\Debug\WearMECSF.pdb
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMECSF\WearMECSF\obj\Debug\WearMECSF.csprojResolveAssemblyReference.cache
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMECSF\WearMECSF\obj\Debug\WearMECSF.dll
+D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\Control Model Comparison\WearMECSF\WearMECSF\obj\Debug\WearMECSF.pdb

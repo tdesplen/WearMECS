@@ -1,0 +1,6 @@
+﻿  Stdafx.cpp
+  AssemblyInfo.cpp
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  WearMECSF_CPlusPlus.vcxproj -> D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMECSF_CPlusPlus\Debug\WearMECSF_CPlusPlus.dll
+  WearMECSF_CPlusPlus.vcxproj -> D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\WearMECSF_CPlusPlus\Debug\WearMECSF_CPlusPlus.pdb (Partial PDB)

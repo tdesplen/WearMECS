@@ -1,0 +1,31 @@
+﻿  ActuationController.cpp
+ActuationController.cpp(76): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+ActuationController.cpp(78): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+ActuationController.cpp(88): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+  Butterworth.cpp
+  EposController.cpp
+EposController.cpp(121): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+EposController.cpp(142): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+EposController.cpp(159): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+  EstimationController.cpp
+EstimationController.cpp(73): warning C4101: 'realcommandvelocity': unreferenced local variable
+EstimationController.cpp(74): warning C4101: 'commandvelocity': unreferenced local variable
+EstimationController.cpp(69): warning C4101: 'realvelocity': unreferenced local variable
+EstimationController.cpp(70): warning C4101: 'estimatedvelocity': unreferenced local variable
+EstimationController.cpp(62): warning C4101: 'filteredvelocity': unreferenced local variable
+EstimationController.cpp(59): warning C4101: 'filteredangleradians': unreferenced local variable
+EstimationController.cpp(63): warning C4101: 'normalizedangle': unreferenced local variable
+EstimationController.cpp(192): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+EstimationController.cpp(197): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  FileParser.cpp
+  TaskController.cpp
+TaskController.cpp(245): warning C4018: '<': signed/unsigned mismatch
+TaskController.cpp(272): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+TaskController.cpp(308): warning C4101: 'start': unreferenced local variable
+  Generating code
+  0 of 331 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    40 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ActiveAGearControlSystem.vcxproj -> D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\ActiveAGearControlSystem\Release\ActiveAGearControlSystem.exe
+  ActiveAGearControlSystem.vcxproj -> D:\Dropbox\PDA\Source Code\WearMECS Open Source Project\ActiveAGearControlSystem\Release\ActiveAGearControlSystem.pdb (Full PDB)

@@ -1,0 +1,2 @@
+biceps_max, biceps_min, triceps_max, triceps_min
+0.002269370671, 0.000000000299, 0.004414930855, 0.000000000083
